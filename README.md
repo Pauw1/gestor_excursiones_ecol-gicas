@@ -9,7 +9,7 @@ Manejo de Errores y Validaciones: Definir las condiciones de error (excursión l
 
 Integración Final: Una vez que los demás módulos estén listos, este integrante se encargará de ensamblar todas las partes y asegurar que el programa funcione como un todo.
 
-
+________________
 
 Integrante 2: Desarrollador de Funcionalidades Principales
 Este integrante se enfocará en la lógica central del sistema.
@@ -22,7 +22,7 @@ Validación de Cupos: Integrar la lógica para verificar si hay cupos disponible
 
 Actualización de Cupos: Asegurar que los cupos se reduzcan correctamente tras una reserva exitosa.
 
-
+__________________
 
 Integrante 3: Desarrollador de Interacción y Control de Flujo
 Este rol se centrará en la interacción con el usuario y el control del programa.
@@ -35,7 +35,7 @@ Uso de break y continue: Aplicar estas sentencias para optimizar el flujo del pr
 
 Mensajes al Usuario: Diseñar y programar los mensajes claros y útiles para el usuario (confirmación de reserva, error de cupo, etc.).
 
-
+_________________
 
 Integrante 4: Desarrollador de Persistencia y Estructura Inicial
 Este integrante se encargará de la configuración inicial y el manejo de los datos.
@@ -47,7 +47,7 @@ Simulación de Persistencia (Opcional si el tiempo lo permite): Si el tiempo lo 
 Comentarios y Documentación: Asegurar que el código esté bien comentado y que las funciones tengan docstrings claros explicando su propósito.
 
 
-
+____________________________
 
 
 Integrante 5: Tester y Documentador
